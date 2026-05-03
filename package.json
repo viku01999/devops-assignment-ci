@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "nodemon src/server.ts",
     "build": "tsc",
-    "prod": "node dist/server.js"
+    "prod": "node dist/server.js",
+    "test": "echo \"No tests yet\" && exit 0"
   },
   "repository": {
     "type": "git",
